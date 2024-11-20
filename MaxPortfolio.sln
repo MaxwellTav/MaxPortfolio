@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPortfolio", "MaxPortfolio\MaxPortfolio\MaxPortfolio.csproj", "{AA43D1D3-151F-4910-AEC1-B02B357F3BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPortfolio.Client", "MaxPortfolio\MaxPortfolio.Client\MaxPortfolio.Client.csproj", "{2D398D0D-5D5C-420F-9482-C20470FCBA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA43D1D3-151F-4910-AEC1-B02B357F3BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA43D1D3-151F-4910-AEC1-B02B357F3BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA43D1D3-151F-4910-AEC1-B02B357F3BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA43D1D3-151F-4910-AEC1-B02B357F3BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D398D0D-5D5C-420F-9482-C20470FCBA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D398D0D-5D5C-420F-9482-C20470FCBA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D398D0D-5D5C-420F-9482-C20470FCBA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D398D0D-5D5C-420F-9482-C20470FCBA85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D67600B-C23A-4BDD-AC4C-887622156B60}
+	EndGlobalSection
+EndGlobal
